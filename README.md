@@ -6,7 +6,9 @@ Um die Animation auf Ihrem Rechner auszuführen (_Localhost_), brauchen Sie das 
 ```
 # Notwendiges Packet wird installiert
 install.packages("shiny")
+install.packages("ggplot2")
 library(shiny)
+library(ggplot2)
 runGitHub("t-Test-versus-F-Test", "Oekonometrie-Lernen")
 ```
 
