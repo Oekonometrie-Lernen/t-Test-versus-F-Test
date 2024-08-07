@@ -1,5 +1,4 @@
 # t-Test-versus-F-Test
-
 ============
 
 Um die Animation auf Ihrem Rechner auszuführen (_Localhost_), brauchen Sie das R Packet `shiny`. 
