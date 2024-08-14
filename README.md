@@ -1,7 +1,7 @@
 t-Test-versus-F-Test
 ============
 
-Um die Animation auf Ihrem Rechner auszuführen (_Localhost_), brauchen Sie das R Packet `shiny` und `ggplot2`. 
+Um die Animation auf Ihrem Rechner auszuführen (_Localhost_), benötigen Sie die R Packete `shiny` und `ggplot2`. 
 
 ```
 # Notwendiges Packet wird installiert
